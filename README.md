@@ -20,4 +20,4 @@ Many users online frequently are accessing and storing private data online with 
 • The user can then click COPY to copy the password to their clipboard to be used for their applications
 
 ## Author
-* **Ryan Ramroop** - [GitHub](https://github.com/dopplerzz)
+**Ryan Ramroop** - [GitHub](https://github.com/dopplerzz)
