@@ -5,7 +5,7 @@ Simple to use Password Generator created in Python3 using the Tkinter Library
 ## Goal
 Many users online frequently are accessing and storing private data online with little to no consideration about security. This project solves most of the security concern for weak passwords and will create a new and more secure password using special characters and longer lengths.
 
-##Functionality 
+## Functionality 
 
 • The user will enter a length between 8 - 32 for password length
 
